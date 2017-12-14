@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <!-- Viewport Meta Tag -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>wazzzaaaaa
+    <title>hello bitches
     </title>
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -816,7 +816,7 @@
       <!-- Container Ends -->
       <div class="container">
         <h1 class="section-title wow fadeInUpQuick" data-wow-delay=".5s">
-          CLIENTS
+          PUSSSSYYYYYYY
         </h1>
         <p class="section-subcontent">At vero eos et accusamus et iusto odio dignissimos ducimus qui <br> blanditiis praesentium</p>
         <div class="wow fadeInUpQuick" data-wow-delay=".9s">
